@@ -16,4 +16,4 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
-![Django](https://img.shields.io/badge/Django-80000.svg?&style=for-the-badge&logo=Django&logoColor=whilte)![react](https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)![Vue.js](https://img.shields.io/badge/Vue-#4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=black)
+![Django](https://img.shields.io/badge/Django-80000.svg?&style=for-the-badge&logo=Django&logoColor=whilte)![React](https://img.shields.io/badge/React-#61DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)![vue.js](https://img.shields.io/badge/Vue-#4FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=black)
